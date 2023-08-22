@@ -1,0 +1,1 @@
+[E 2023-04-10 10:43:17,120 /Users/yen/.pyenv/versions/3.7.15/lib/python3.7/site-packages/shioaji/shioaji.py:217:_setup_solace] RequestException RemoteDisconnected('Remote end closed connection without response')
